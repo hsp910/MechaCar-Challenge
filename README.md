@@ -19,7 +19,7 @@ There were 3 variables provided in our data set that determined a non random amo
 - Vehicle Weight
 - Ground Clearance
 
-The p-value of this ultiple linear regression, as shown below, is roughly 5.35X10(-11), which is much smaller than the assumed significance level of 0.005%. Therefore, there is more than sufficient evidence to reject the null hypothesis since the slope of the linear model is not zero either.
+The p-value of this multiple linear regression, as shown below, is roughly 5.35X10(-11), which is much smaller than the assumed significance level of 0.005%. Therefore, there is more than sufficient evidence to reject the null hypothesis since the slope of the linear model is not zero either.
 
 ![Linear Regression Image](https://i.imgur.com/7zzGIqI.png)
 

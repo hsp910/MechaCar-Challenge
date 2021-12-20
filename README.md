@@ -85,4 +85,4 @@ The data analytics team will use multiple linear regression to predict the Mecha
 
 ### Data Required 
 
-In order to pefrom a multiple linear regression that can predict the rate of depreciation the analysts will need vehicle values, age, and mileage for the base line variables. We can also consider things such as number of accidents as another possible variable that can influence rate of depreciation. 
+In order to perfrom a multiple linear regression that can predict the rate of depreciation the analysts will need vehicle values, age, and mileage for the base line variables. We can also consider things such as number of accidents as another possible variable that can influence rate of depreciation. 

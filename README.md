@@ -2,7 +2,7 @@
 
 ## Overview
 
-The fictional company, AutosRUs, has created a new prototyped dubbed the MechaCar. The MechaCar is currently suffering from production troubles that are blocking the manufacturing team's progress. AutosRUs' senior management has enlisted the assitance of a data analytics teamt or eview the production data for insights that may help the manufacturing team overcom their current production issues.
+The fictional company, AutosRUs, has created a new prototyped dubbed the MechaCar. The MechaCar is currently suffering from production troubles that are blocking the manufacturing team's progress. AutosRUs' senior management has enlisted the assitance of a data analytics team to review the production data for insights that may help the manufacturing team overcome their current production issues.
 
 To help analyze the current production issues the data analytics team provided the following insights using R:
 - Multiple linear regression analysis to determine which variables in the dataset predict MPG of the MechaCar prototypes created thus far.
@@ -23,7 +23,7 @@ The p-value of this multiple linear regression, as shown below, is roughly 5.35X
 
 ![Linear Regression Image](https://i.imgur.com/7zzGIqI.png)
 
-This linear model predicts that roughly 71.5% of MPG predictions of random MechaCar protoypes will be correct when suing htis model. The R-Squared value, of 0.715, also suggests that there is a positive correlation between MPG and the variables of vehicle length, vehicle weight, spoiler angle, ground celarance, and AWD(All Wheel Drive).
+This linear model predicts that roughly 71.5% of MPG predictions of random MechaCar protoypes will be correct when suing this model. The R-Squared value, of 0.715, also suggests that there is a positive correlation between MPG and the variables of vehicle length, vehicle weight, spoiler angle, ground celarance, and AWD(All Wheel Drive).
 
 ## Summary Statistics on Suspension Coils
 
@@ -67,22 +67,22 @@ The final lot is where we see a p value of 0.04. This is actually below the 0.05
 
 ### Description of Statistical Study
 
-The cost of owning and maintaining vehicles can be quite costly for the average consumer, so AutosRUs has requested to help make certain their MechaCar can beat their competitors in long term value. To measure this the data analytics team has elected to measure the rate of depriciation for the MechaCar vs other competitor's cars.
+The cost of owning and maintaining vehicles can be quite costly for the average consumer, so AutosRUs has requested to help make certain their MechaCar can beat their competitors in long term value. To measure this the data analytics team has elected to measure the rate of depreciation for the MechaCar vs other competitor's cars.
 
 ### Metric
 
-- Rate of depriciation (value of vehicle over time). 
+- Rate of depreciation (value of vehicle over time). 
   - In other words we are searching to see how much cash value of a vehicle is lost over the time of owning the vehicle.
 
 ### Hypothesis
 
-- Null hypothesis: The rate of depriciation for MechaCar is equal to that of their competitors equivalent models. 
-- Alternative hypothesis: The rate of depriciation for MechaCar is not equal to that of their competitors equivalent models.
+- Null hypothesis: The rate of depreciation for MechaCar is equal to that of their competitors equivalent models. 
+- Alternative hypothesis: The rate of depreciation for MechaCar is not equal to that of their competitors equivalent models.
 
 ### Statistical Test
 
-The data analytics team will use multiple linear regression to predict the MechaCar's rate of deprication.
+The data analytics team will use multiple linear regression to predict the MechaCar's rate of deprecation.
 
 ### Data Required 
 
-In order to pefrom a multiple linear regression that can predict the rate of depriciation the analysts will need vehicle values, age, and mileage for the base line variables. We can also consider things such as number of accidents as another possible variable that can influence rate of depricaition. 
+In order to pefrom a multiple linear regression that can predict the rate of depreciation the analysts will need vehicle values, age, and mileage for the base line variables. We can also consider things such as number of accidents as another possible variable that can influence rate of depreciation. 
